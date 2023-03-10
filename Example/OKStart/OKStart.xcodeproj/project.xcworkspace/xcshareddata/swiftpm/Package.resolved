@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "scriptable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AbiramyKrishnan/Scriptable.git",
+      "state" : {
+        "revision" : "f16577a4d2f8e9aa80ba79b97aeb6ccd95e86f39",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
